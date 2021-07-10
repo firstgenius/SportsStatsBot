@@ -7,7 +7,7 @@ from time import sleep
 from goal_check import *
 
 
-API_KEY = '1896156415:AAEr9D6Tu_ttN0ZEPvZ04QRtw3NYyiWO42I'
+API_KEY = ''
 bot = telebot.TeleBot(API_KEY)
 users = set()
 
